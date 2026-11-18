@@ -19,7 +19,7 @@ This repository presents an end-to-end data analytics workflow covering raw data
 
 ### 2. Data Analysis (SQL)
 * **[`SQL_DataLoading.sql`](./SQL_DataLoading.sql)** – Database schema creation and initial data ingestion scripts.
-* **[`operations.sql`](./operations.sql)** – Core operational queries and baseline KPI metrics.
+* **[`jan_operations.sql`](./jan_operations.sql)** – SQL queries and operational analysis for January.
 * **[`feb_operations.sql`](./feb_operations.sql)** – SQL queries and operational analysis for February.
 * **[`mar_operations.sql`](./mar_operations.sql)** – SQL queries and operational analysis for March.
 
