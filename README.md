@@ -28,10 +28,10 @@ This repository presents an end-to-end data analytics workflow covering raw data
 ## 📈 Monthly Performance Dashboards
 
 ### January Dashboard
-![January Dashboard](Jan%20%20Dashboard.png)
+![January Dashboard](Jan%20Dashboard..png)
 
 ### February Dashboard
 ![February Dashboard](./Feb%20Dashboard.png)
 
 ### March Dashboard
-![March Dashboard](./Mar%20Dashboard.png)
+![March Dashboard](./Mar%20Dashboard..png)
