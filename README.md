@@ -18,7 +18,7 @@ This repository presents an end-to-end data analytics workflow covering raw data
 * **[`Data_Loading.ipynb`](./Data_Loading.ipynb)** – Prepares and loads the cleaned dataset into the database.
 
 ### 2. Data Analysis (SQL)
-* **[`SQL_DataLoading.sql`](./SQL_DataLoading.sql)** – Database schema creation and initial data ingestion scripts.
+* **[`SQL_DataLoading.sql`](./SQL_DataLoading.sql)** – Database creation,loding tables and select queries.
 * **[`jan_operations.sql`](./jan_operations.sql)** – SQL queries and operational analysis for January.
 * **[`feb_operations.sql`](./feb_operations.sql)** – SQL queries and operational analysis for February.
 * **[`mar_operations.sql`](./mar_operations.sql)** – SQL queries and operational analysis for March.
